@@ -1,12 +1,12 @@
 
 *{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(130, 197, 255);
+    color: rgb(255, 255, 255);
     font-size: 30;
 }
 
 body{
-    background-color: black;
+    background-color: hwb(0 0% 100% / 0.281);
 }
 
 main{
