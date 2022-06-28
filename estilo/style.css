@@ -5,6 +5,11 @@
     font-size: 30;
 }
 
+h1{
+    color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+}
+
 body{
     background-color: hwb(0 0% 100% / 0.281);
 }
